@@ -1,5 +1,5 @@
 {
-  "name": "@equipe-cao/mf-finance-lancamento",
+  "name": "@equipe-cao/mf-finance-transaction",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",

@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "declarationDir": "dist"
   },
-  "files": ["src/equipe-cao-mf-finance-lancamento.tsx"],
+  "files": ["src/equipe-cao-mf-finance-transaction.tsx"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }
